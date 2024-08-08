@@ -19,6 +19,6 @@ pip install -r requiremnts.txt
 
 ## Run
 ```shell
-python main.py
+python main.py --target-rpm 100 --max-iter 30
 ```
 
